@@ -16,12 +16,11 @@ header#titlegame img {
 }
 
 #game {
-    flex: 1;
     width: 500px;
     height: 200px;
     border: 2px solid black;
-    background-image: url(../images/bg-morning.png);
-    background-size: contain;
+    background: url(../images/bg-morning.png) no-repeat bottom;
+    background-size: cover;
 }
 
 #character {
