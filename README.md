@@ -1,5 +1,5 @@
- <h1> DINO GAME 🦖 </h1>
+# DINO GAME 🦖
  
- ![Alt text](https://github.com/belatoledo/dino-game/blob/master/Game%20Gif.gif?raw=true "Game Gif")
+![Alt text](./images/game.gif "Game Gif")
 
-<h3 align"justify"> 📌 Jogo baseado no pokemon adicionando score! </h3>
+<h3 align"justify"> 📌 Jogo baseado no pokemon adicionando score!</h3>
