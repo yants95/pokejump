@@ -37,12 +37,14 @@
 #block {
     width: 20px;
     height: 20px;
-    background-size: 70%; 
+    background-repeat: no-repeat;
+    background-size: 80%; 
     background-image: url(https://media.discordapp.net/attachments/751228568138416188/753433254480314368/783-7831178_pokeball-pokeball-pixel-png.png?width=522&height=522);
     position: relative;
     top: 130px;
     left: 480px;
     animation: block 1s infinite linear;
+    
 }
 @keyframes block{
     0%{left:480px;}
