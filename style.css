@@ -6,18 +6,19 @@
 
 #titlegame {
     margin-left: 150px;
-    }
+}
 
 #game {
     width: 500px;
     height: 200px;
     border: 2px solid black;
-    background-color: whitesmoke;
+    background-image: url(./pokebg.png);
 }
+
 #character {
     width: 50px;
     height: 50px;
-    background-image: url(https://i.ibb.co/dLpcyyK/pokemon-pixel-art.png);
+    background-image: url(./eevee.png);
     background-size: cover;
     position: relative;
     top: 150px;
@@ -36,8 +37,8 @@
 #block {
     width: 20px;
     height: 20px;
-    background-size: 120%; 
-    background-image: url(https://i.ibb.co/rvTfWNr/pixelrock.png);
+    background-size: 70%; 
+    background-image: url(https://media.discordapp.net/attachments/751228568138416188/753433254480314368/783-7831178_pokeball-pokeball-pixel-png.png?width=522&height=522);
     position: relative;
     top: 130px;
     left: 480px;

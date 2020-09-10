@@ -5,6 +5,7 @@ document.getElementById("block");
 
 var score = 0;
 var scoreId = document.getElementById("score");
+var characterId = document.getElementById("character");
 var tecla = 0;
 
 // document.addEventListener('keypress', function(event) {
@@ -30,6 +31,7 @@ function jump() {
         character.classList.remove("animate");
         scoreId.textContent = score;
         score++;
+        if (score >= 5) characterId.style.backgroundImage = "url('./poke-evolution.png')";
     }, 500);
 }
 
@@ -42,8 +44,9 @@ var checkDead = setInterval(function() {
         block.style.animation = "none";
         block.style.display = "none";
         scoreId.textContent = 0;
-        alert("YOU LOSE!");
+        alert("Você foi capturado! 😄");
         score = 0;
+        characterId.style.backgroundImage = "url('./ppokemon-pixel-art.png')";
     } else {
         scoreId.textContent = score;
     }
