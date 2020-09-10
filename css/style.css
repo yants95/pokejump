@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     font-family: 'Rokkitt', serif;
-    transition: all 0.2s;
 }
 
 header#titlegame {
@@ -12,6 +11,8 @@ header#titlegame {
 }
 
 header#titlegame img {
+    width: 20px;
+    height: 20px;
     margin-left: 10px;
 }
 
@@ -44,7 +45,7 @@ header#titlegame img {
     100% { top: 150px; }
 }
 
-#block {
+#game #block {
     width: 20px;
     height: 20px;
     background-repeat: no-repeat;
@@ -57,6 +58,6 @@ header#titlegame img {
 }
 
 @keyframes block {
-    0% { left:480px; }
-    100% { left:-40px; }
+    0% { left: 480px; }
+    100% { left: -40px; }
 }
