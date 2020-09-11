@@ -16,7 +16,15 @@
  *  Backgrounds morning and night adicionados
  </h3>
  
- <h3> 💜 Demo </h3>
+ <h2> ℹ Como jogar: </h2>
+ <h3> 
+  1. Faça um git clone do repositório para sua máquina; <br>
+  2. Abra o arquivo index.html no navegador; <br>
+  3. Recarregue a página para recomeçar; <br>
+  4. Use o botão esquerdo do mouse para pular. <br>
+  </h3>
+ 
+ <h2> 💜 Demo: </h2>
  
  <p align="center">
 <br>
