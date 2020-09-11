@@ -21,4 +21,4 @@
  <p align="center">
 <br>
   <img src="https://github.com/yants95/pokejump/blob/master/images/pokejump-gif.gif?raw=true" alt="Pokejump-gif">
-</p>!
+</p>
