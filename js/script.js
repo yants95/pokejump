@@ -62,6 +62,7 @@ var checkDead = setInterval(function() {
         
         alert('Você foi capturado! 😄');
 
+        gameId.style.backgroundImage = "url('../images/bg-morning.png')";
         characterId.style.backgroundImage = "url('../images/eevee/level1.png')";
     }
 }, 10);

@@ -5,7 +5,7 @@
 ## 💬 Sobre o projeto
 
 <h4>
-  Utilização de uma versão simplificada jogo do dinossauro feito com a temática Pokémon para realizar o Desafio #1 do proposto no Workshop " propósito de ser mentor" do Space Squad.
+  Utilização de uma versão simplificada jogo do dinossauro feito com a temática Pokémon para realizar o Desafio #1 do proposto no Workshop "propósito de ser mentor" do Space Squad.
 </h4>
 
 ## 🆕 Features
