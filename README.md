@@ -41,5 +41,5 @@
 ## 💜 Demo
  
 <p align="center">
-  <img src="https://github.com/yants95/pokejump/blob/master/images/pokejump-gif.gif?raw=true" alt="Pokejump-gif">
+  <img src="./images/pokejump-gif.gif" alt="Pokejump-gif">
 </p>
